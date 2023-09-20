@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📨 sesim 깃허브 프로필
+    url: https://github.com/sesim/
+    about: Please ask and answer questions here.
+  - name: 🌎 sesim 프로젝트
+    url: https://github.com/users/sesim/projects/4
+    about: Please report security vulnerabilities here.
