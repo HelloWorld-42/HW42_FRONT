@@ -3,7 +3,7 @@ name: main just dev
 on:
   pull_request:
     branches: [ main ]
-
+# main <-- dev
 jobs:
   check-main:
     runs-on: ubuntu-latest
